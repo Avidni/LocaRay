@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" role="img" aria-label="LocaRay app icon">
+  <rect width="1024" height="1024" rx="232" fill="#042E1D"/>
+  <circle cx="512" cy="512" r="282" fill="none" stroke="#80EF63" stroke-width="76"/>
+  <path d="M512 322v380M322 512h380" fill="none" stroke="#FFF6E5" stroke-linecap="round" stroke-width="76"/>
+  <circle cx="512" cy="512" r="82" fill="#000000" stroke="#80EF63" stroke-width="30"/>
+</svg>
